@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/astro-sheeps/.github/main/profile/assets/astrosheeps-banner.png" alt="AstroSheeps banner" width="100%">
-</p>
+
 
 <h1 align="center">AstroSheeps</h1>
 
@@ -110,35 +108,7 @@ AstroSheeps treats hobby-scale experiments as tiny missions: structured, visual,
 
 Not everything needs to be big to feel like exploration.
 
----
 
-## 🛠️ Tech stack
-
-AstroSheeps projects may use:
-
-- HTML, CSS, and JavaScript;
-- GitHub Pages;
-- Python;
-- Raspberry Pi;
-- small rover platforms;
-- smart telescopes such as Seestar;
-- LLM-assisted planning and documentation tools.
-
----
-
-## 🎨 Visual style
-
-AstroSheeps uses a playful mission-control aesthetic:
-
-- dark space backgrounds;
-- orange mission accents;
-- sheep mascots;
-- badges, patches, cards, and stickers;
-- clear technical pages with a soft sense of humor.
-
-Serious experiments. Unserious sheep.
-
----
 
 ## 📜 License and artwork
 
